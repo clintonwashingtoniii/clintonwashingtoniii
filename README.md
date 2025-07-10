@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Clinton! I am a recent graduate of Furman University, where I majored in IT and Music performance.I'm currently in Austin,TX looking to work within Data Analytics.
+My name is Clinton! I am a recent graduate of Furman University, where I majored in IT and Music performance. I'm currently in Austin,TX looking to work within Data Analytics.
 <!--
 **clintonwashingtoniii/clintonwashingtoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
